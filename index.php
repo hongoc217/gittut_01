@@ -2,7 +2,7 @@
   <html lang="en">
     <head>
       <link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,700|Acme" rel="stylesheet">
-      <link rel="stylesheet" type="text/css" href="css/main.css">
+      <link rel="stylesheet" type="text/css" href="main.css">
     </head>
     <body>
       <nav>
