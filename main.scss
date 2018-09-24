@@ -1,0 +1,32 @@
+$primary-color: #ECA537;
+$text-color: #333;
+
+$heading-font: 'Acme',sans-serif;
+$body-font: 'Roboto',sans-serif;
+$font-size: 14px;
+
+h1, h2, h3, h4 {
+  color: $primary-color;
+  font-family: $heading-font;
+}
+body, p {
+  color: $text-color;
+  font-family: $body-font;
+  font-size: $font-size;
+}
+nav {
+  ul {
+    padding-left: 0;
+  }
+  li {
+    display: inline-block;
+  }
+  a {
+    text-decoration: none;
+    padding: 10px 20px;
+  }
+  li.active a {
+    color: $primary-color;
+  }
+  
+}
