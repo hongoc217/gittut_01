@@ -7,9 +7,10 @@
     <body>
       <nav>
         <ul>
+          <li><a href="/">Home</a></li>
           <li class="active"><a href="/">About</a></li>
           <li><a href="/">News</a></li>  
-          <li><a href="/">Contact</a></li>  
+          <li><a href="/">Contact</a></li>
         </ul>
       </nav>
       <h1>About us - On GitHub</h1>
