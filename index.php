@@ -12,7 +12,6 @@
           <li class="active"><a href="/">About</a></li>
           <li><a href="/">News</a></li>
           <li><a href="gallery.php">Gallery</a></li>
->>>>>>> gallery
           <li><a href="/">Contact</a></li>
         </ul>
       </nav>
